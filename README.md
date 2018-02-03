@@ -26,4 +26,4 @@ In papers three and four we study high-level excursions of the Shepp statistic f
 ``` 
 
 ---
-Update 2018
+Update 2018 
